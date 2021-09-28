@@ -17,7 +17,7 @@ Feel free to use existing frameworks (e.g. PennyLane, Qiskit) for creating and t
 
 For the variational circuit, you can try any circuit you want. You can start from one with a layer of RX, RY and CNOTs, repeated a couple of times (though there are certainly better circuits to achieve this goal).
 
-This challenge has been inspired by the following papers "[A generative modeling approach for benchmarking and training shallow quantum circuits][1]" and "[Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer][2]". and qiskit summer school[3]
+This challenge has been inspired by the following papers "[A generative modeling approach for benchmarking and training shallow quantum circuits][1]" and "[Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer][2]". and "[qiskit summer school][3]"
 
 [1]: https://www.nature.com/articles/s41534-019-0157-8 "A generative modeling approach for benchmarking and training shallow quantum circuits"
 [2]: https://arxiv.org/abs/2012.03924 "Generation of High-Resolution Handwritten Digits with an Ion-Trap Quantum Computer"
